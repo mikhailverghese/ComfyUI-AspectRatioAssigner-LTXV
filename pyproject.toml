@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-aspect-ratio-assigner-ltxv"
+version = "0.1.0"
+description = "ComfyUI node to choose target dimensions based on closest aspect ratio"
+license = {text = "MIT"}
+
+[tool.comfy]
+PublisherId = "mikhailverghese"
+DisplayName = "ComfyUI LTXV Aspect Ratio Assigner"
+Icon = ""

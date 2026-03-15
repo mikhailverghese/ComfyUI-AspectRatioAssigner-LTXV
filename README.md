@@ -24,4 +24,4 @@ Clone into your ComfyUI custom_nodes folder:
 
 ```bash
 cd /workspace/ComfyUI/custom_nodes
-git clone https://github.com/YOUR_USERNAME/ComfyUI-AspectRatioTarget.git
+git clone https://github.com/mikhailverghese/ComfyUI-AspectRatioAssigner-LTXV.git
